@@ -8,5 +8,9 @@ Intended for a Raspberry Pi 4 and later. Prototype has:
 * Camera: PiNOIR 3 WIDE
 * Wi-Fi adaptor (TBD)
 
+## Required libraries
+* Pillow
+* Pygame
+
 ## Display
 Displays background image and clockface
