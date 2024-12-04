@@ -17,6 +17,7 @@ Intended for a Raspberry Pi 4 and later. Prototype has:
 * google-auth-oauthlib
 * google-auth-httplib2
 * opencv (for movement, face detection)
+* [eSpeak](https://www.dexterindustries.com/howto/make-your-raspberry-pi-speak/) (Text To Speech enging)
 
 ## APIs
 * National Weather Service
@@ -32,3 +33,10 @@ Menu is controlled via pushbuttons on monitor.
 
 ## Code
 [REPL.it Graphic Testbed](https://replit.com/@theedoctaz/FlusteredQuaintSpool#main.py) (currently Time & Weather)
+Next:
+- Google Photos integration
+- Main script
+- Monitor button programming (Menu?)
+- SoundCloud script (search and loop through ambient noise albums like [this one](https://soundcloud.com/soundeffectszone/sets/new-york-city-soundscape))
+- Rhasspy integration
+- OpenCV lighting detection
