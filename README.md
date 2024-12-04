@@ -9,8 +9,11 @@ Intended for a Raspberry Pi 4 and later. Prototype has:
 * Wi-Fi adaptor (TBD)
 
 ## Required libraries
-* Pillow
+* --Pillow--
 * Pygame
 
 ## Display
 Displays background image and clockface
+
+## Code
+[REPL.it Graphic Testbed](https://replit.com/@theedoctaz/FlusteredQuaintSpool#main.py) (currently Time & Weather)
