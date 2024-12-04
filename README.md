@@ -11,7 +11,7 @@ Intended for a Raspberry Pi 4 and later. Prototype has:
 * AC Power Adaptor (TBD)
 
 ## Required libraries
-* --Pillow--
+* -Pillow-
 * Pygame (for display)
 * google-auth (for Google Photos access)
 * google-auth-oauthlib
