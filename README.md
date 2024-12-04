@@ -4,9 +4,9 @@ This repository is for skilled programmers to reproduce this product. It is a co
 
 ## System
 Intended for a Raspberry Pi 4 and later. Prototype has:
-* Raspberry Pi 4                                              $35
-* Monitor: 8" Portable Monitor (JINSWY)                       $50
-* Camera: Raspberry Pi Camera Module 3 Wide PiNOIR            $35
+* Raspberry Pi 4:                                              $35
+* Monitor: 8" Portable Monitor (JINSWY):                       $50
+* Camera: Raspberry Pi Camera Module 3 Wide PiNOIR:            $35
 * Wi-Fi adaptor (TBD)
 * AC Power Adaptor (TBD)
 
@@ -32,6 +32,7 @@ Menu is controlled via pushbuttons on monitor.
 
 ## Code
 [REPL.it Graphic Testbed](https://replit.com/@theedoctaz/FlusteredQuaintSpool#main.py) (currently Time & Weather)
+
 Next:
 - Google Photos integration
 - Main script
