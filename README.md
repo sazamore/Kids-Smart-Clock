@@ -36,7 +36,7 @@ Menu is controlled via pushbuttons on monitor.
 [REPL.it Graphic Testbed](https://replit.com/@theedoctaz/FlusteredQuaintSpool#main.py) (currently Time & Weather)
 
 Next:
-- Google Photos integration
+- Google Photos integration **WIP**
 - Main script
 - Monitor button programming (Menu?)
 - SoundCloud script (search and loop through ambient noise albums like [this one](https://soundcloud.com/soundeffectszone/sets/new-york-city-soundscape))
