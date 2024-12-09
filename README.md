@@ -9,6 +9,8 @@ Intended for a Raspberry Pi 4 and later. Prototype has:
 * Camera: Raspberry Pi Camera Module 3 Wide PiNOIR:            $35
 * Wi-Fi adaptor (TBD)
 * AC Power Adaptor (TBD)
+* [External Speaker](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-18343/14557735?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-14557735_sig-Cj0KCQiAx9q6BhCDARIsACwUxu7y7M6m4zUiEN6sFCHJPNIdnrJcFUiFIrzgZmjtoGP-XT-ISZLc2j0aAtl0EALw_wcB&gad_source=1&gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7y7M6m4zUiEN6sFCHJPNIdnrJcFUiFIrzgZmjtoGP-XT-ISZLc2j0aAtl0EALw_wcB&gclsrc=aw.ds)        $11
+* [Pi Battery Pack](https://www.adafruit.com/product/1566?gad_source=1&gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7ldBbbZtFhMdeqDYhaA441Rky9qYAX8gLmsmT-VdeYrdNH-eIFX00aArryEALw_wcB)                    $40
 
 ## Required libraries
 * Pygame (for display)
